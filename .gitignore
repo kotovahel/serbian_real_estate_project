@@ -1,0 +1,11 @@
+.venv/
+.idea/
+.git/
+temp/
+*.zip
+sandbox.py
+*data/
+*.cfg
+*config*
+*.env
+!*.default
